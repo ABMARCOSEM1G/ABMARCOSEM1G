@@ -1,16 +1,16 @@
-## Hi there 👋
+### Fala fio cê tá bão? 😊😃👨‍🎓
 
-<!--
-**ABMARCOSEM1G/ABMARCOSEM1G** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Marcos! Vulgo: Marcão
 
-Here are some ideas to get you started:
+- Estou estudando no Adoniran Barbosa, fazendo alura 👨‍🎓
+- Estou aprendendo a linguagem JavaScript 👨‍🎓
+- Quero ser Padre 🙌
+- Eu gosto de Café ☕
+- Eu gosto de estudar 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ### Você pode entrar em contato comigo 📫
+
+- 00001127735949sp@al.educacao.sp.gov.br
+- Não garanto responder tão rápido!
+
+![](https://media1.tenor.com/m/QowPVPL5GOwAAAAd/church-pope-francis.gif)
